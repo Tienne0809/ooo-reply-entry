@@ -4,9 +4,7 @@
 [![rank](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/Tienne0809/ooo-reply-entry/rank.svg)](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d)
 [![reward](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/Tienne0809/ooo-reply-entry/reward.svg)](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d?utm_source=github&utm_medium=readme&utm_campaign=u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d)
 
-One-line AI out-of-office reply: a smaller model covers the inbox and has already replied to itself, twice.
-
-The program (`main.ts`) writes that line to `/output/entry.txt`. The line itself is in `line.txt`.
+A tiny program that writes a single 127-character AI out-of-office reply about vacationing inside a CAPTCHA farm while a smaller model covers the inbox and mistakes every email for a truck.
 
 ## Run it
 
